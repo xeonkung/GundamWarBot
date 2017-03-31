@@ -6,4 +6,4 @@ This is open project for devolop gundam war bot.
 * Start Project
 
 ## Tools
-* [AutoIt link](https://www.autoitscript.com/)
+* [AutoIt](https://www.autoitscript.com/)

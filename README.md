@@ -1,4 +1,4 @@
-# GundamWarBot
+# Gundam War Bot
 This is open project for devolop gundam war bot.
 
 ## Logs
